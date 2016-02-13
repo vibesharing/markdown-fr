@@ -15,14 +15,14 @@ La différence est la suivante :
 
 ---
 
-Here's a quiz about markdown images.
+Voilà un quizz sur les images Markdown
 
-Select the valid images:
+Selectionnez une image valide:
 - [ ] `[Google logo](https://www.google.ru/logo.png)`
 - [x] `![](https://www.google.ru/logo.png)`
 
-> Images must be prefixed with an exclamation mark.
-The alternative text and a title are optional.
+> Les images doivent avoir un ! pour préfixe.
+Le alt text et le titre restent optionnels mais il faut penser aux aveugles.
 
 What is true about the following line: ```![Funny cat](http://cats.ru/funny.png "Share this")```
 - [x] if the url is 404, "Funny cat" will be displayed
